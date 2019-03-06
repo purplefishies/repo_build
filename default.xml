@@ -4,6 +4,6 @@
 
   <default remote="origin" revision="master" />
 
-  <project path="struct_core" name="https://github.com/AutoModality/struct_core" />
-  <project path="OSDK-ROS" name="https://github.com/AutoModality/OSDK-ROS" />
+  <project path="struct_core" name="AutoModality/struct_core" />
+  <project path="OSDK-ROS" name="AutoModality/OSDK-ROS" />
 </manifest>
